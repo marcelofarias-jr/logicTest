@@ -1,0 +1,11 @@
+.form{
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+}
+.formik{
+    border: 1px solid blue;
+}
+.buttonSubmit{
+    width: 5rem;
+}
